@@ -1,7 +1,7 @@
 
 # Rapport
 
-**Skapade ett sharedPreference-objekt och en editor som hanterade strängar där strängarna lagras och visas i huvudaktiviteten**
+**Skapade ett "sharedPreference"-objekt och en editor som hanterade strängar där strängarna lagras och visas i huvudaktiviteten**
 
 
 # Kodsegment 1:
