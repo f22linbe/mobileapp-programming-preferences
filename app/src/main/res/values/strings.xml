@@ -2,4 +2,6 @@
     <string name="app_name">Shared Preferences</string>
     <string name="click_me">Click me!</string>
     <string name="previous">Previous</string>
+    <string name="edit">Edit</string>
+    <string name="save">save</string>
 </resources>
