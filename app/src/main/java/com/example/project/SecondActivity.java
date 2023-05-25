@@ -14,8 +14,6 @@ public class SecondActivity extends AppCompatActivity {
 
         Button backButton = findViewById(R.id.back_button);
 
-        String itemString = getIntent().getStringExtra("itemString");
-
         backButton.setOnClickListener(v -> finish());
     }
 }
